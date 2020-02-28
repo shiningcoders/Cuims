@@ -8,8 +8,6 @@ This is CUIMS UI app, which consists of home page and a app drawer. It is a begi
 
 ### Screenshots
 
-<img src="screenshots/cuims1.png" height="400">
-
-![](screenshots/cuims1.png)
-![](screenshots/cuims2.png)
-![](screenshots/cuims3.png)
+<img src="screenshots/cuims1.png" height="800">
+<img src="screenshots/cuims2.png" height="800">
+<img src="screenshots/cuims3.png" height="800">
