@@ -1,16 +1,13 @@
-# cuims
+# CUIMS
 
-A new Flutter project.
+Chandigarh University Information Management System UI App.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+This is CUIMS UI app, which consists of home page and a app drawer. It is a beginner project in which basic implementation of widget in flutter is shown. Everything in this app has been made using widgets provided by flutter material package, no additional dependency is used.
 
-A few resources to get you started if this is your first Flutter project:
+### Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](screenshots/cuims1.png)
+![](screenshots/cuims2.png)
+![](screenshots/cuims3.png)
